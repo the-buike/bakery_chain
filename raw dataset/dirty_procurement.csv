@@ -1,0 +1,501 @@
+Branch ID,Supplier ID,Supplier Name,Material Purchased,Purchase Cost ($),Lead Time (Days),Delivery Performance,Date
+B02,S01,Supplier B,Flour,783,5,Delayed,2024-06-01
+B01,S09,Supplier J,Flour,1962,7,On Time,2024-04-17
+B02,S06,Supplier G,flour,817,5,On Time,2024-06-10
+B02,S07,Supplier H,Baking Powder,1373,4,Delayed,2024-04-25
+B03,S08,Supplier I,Dry Fruits,1541,9,On Time,2024-03-24
+B02,S01,Supplier B,Yeast,728,6,Delayed,2024-02-09
+B01,S07,Supplier H,Eggs,-500,5,On Time,2024-01-04
+B01,S01,Supplier B,Sugar,1602,5,Delayed,2024-04-17
+B03,S07,Supplier H,Baking Powder,1705,6,On Time,2024-04-03
+B03,S02,Supplier C,Butter,1325,7,Delayed,2024-01-20
+B01,,Supplier D,Raisins,570,5,On Time,2024-04-29
+B01,S07,Supplier H,Yeast,1819,9,Delayed,2024-02-17
+B02,S06,Supplier G,Chocolate,692,7,Delayed,2024-06-12
+B02,S01,Supplier B,Butter,551,5,On Time,2024-02-06
+B04,S05,Supplier F,Chocolate,973,9,On Time,2024-04-10
+B01,S09,Supplier J,Baking Powder,1954,7,Delayed,2024-05-17
+B01,S03,Supplier D,Dry Fruits,1190,9,On Time,2024-03-31
+B03,S04,Supplier E,Raisins,1934,9,On Time,2024-01-24
+B01,S08,Supplier I,Chocolate,1588,9,On Time,2024-01-26
+B04,S01,Supplier B,Baking Powder,1892,10,Delayed,2024-05-22
+B02,S01,Supplier B,Flour,783,5,Delayed,2024-06-01
+B01,S09,Supplier J,Eggs,1450,7,On Time,2024-03-31
+B03,S03,Supplier D,Sugar,1073,9,On Time,2024-04-06
+B01,S06,Supplier G,Flour,958,7,On Time,2024-06-07
+B04,S03,Supplier D,Raisins,924,5,Delayed,2024-05-07
+B01,S02,Supplier C,Chocolate,1681,5,On Time,2024-01-09
+B01,S07,Supplier H,Raisins,621,4,Delayed,2024-03-14
+B01,S06,Supplier G,Raisins,897,10,On Time,2024-05-24
+B04,S09,Supplier J,Baking Powder,1730,9,Delayed,2024-01-10
+B03,S08,Supplier I,Raisins,1801,6,Delayed,2024-04-27
+B04,S08,Supplier I,Yeast,1068,7,On Time,2024-02-25
+B03,S02,Supplier C,Sugar,1637,8,Delayed,2024-02-26
+B03,S01,Supplier B,Raisins,1319,8,On Time,2024-04-11
+B01,S06,Supplier G,Chocolate,820,6,On Time,2024-06-17
+B03,S01,Supplier B,Yeast,718,8,On Time,2024-01-22
+B02,S05,Supplier F,Butter,991,6,Delayed,2024-03-29
+B02,S06,Supplier G,Baking Powder,1037,7,On Time,2024-04-17
+B01,S01,Supplier B,Nuts,1085,6,Delayed,2024-05-15
+B01,S01,Supplier B,Butter,1034,10,On Time,2024-06-02
+B01,S05,Supplier F,Nuts,1850,7,On Time,2024-03-24
+B02,S02,Supplier C,Baking Powder,1313,8,Delayed,2024-05-30
+B02,S04,Supplier E,Eggs,1729,9,On Time,2024-01-15
+B01,S07,Supplier H,Eggs,1107,6,Delayed,2024-02-14
+B01,S02,Supplier C,Butter,1533,5,Delayed,2024-01-01
+B04,S01,Supplier B,Butter,984,7,Delayed,2024-05-14
+B01,S06,Supplier G,Dry Fruits,1673,4,On Time,2024-02-04
+B01,S04,Supplier E,Sugar,628,9,Delayed,2024-06-22
+B01,S05,Supplier F,Eggs,1581,9,On Time,2024-05-29
+B04,S03,Supplier D,Butter,1401,8,Delayed,2024-03-13
+B02,S01,Supplier B,Eggs,1802,10,Delayed,2024-02-04
+B01,S07,Supplier H,Eggs,1567,6,On Time,2024-02-02
+B01,S01,Supplier B,Raisins,1474,7,Delayed,2024-03-06
+B02,S07,Supplier H,Chocolate,1203,6,Delayed,2024-01-18
+B03,S09,Supplier J,Baking Powder,1592,8,On Time,2024-05-09
+B01,S02,Supplier C,Raisins,1347,10,Delayed,2024-01-25
+B01,S06,Supplier G,Eggs,1857,8,On Time,2024-02-04
+B01,S03,Supplier D,Flour,578,6,On Time,2024-05-16
+B03,S07,Supplier H,Chocolate,912,5,Delayed,2024-01-31
+B04,S01,Supplier B,Chocolate,668,4,Delayed,2024-05-18
+B04,S07,Supplier H,Raisins,1082,6,Delayed,2024-02-06
+B02,S02,Supplier C,Butter,1566,10,Delayed,2024-04-29
+B03,S09,Supplier J,Raisins,1524,8,Delayed,2024-06-11
+B02,S04,Supplier E,Raisins,1017,10,Delayed,2024-06-03
+B03,S07,Supplier H,Raisins,1613,5,Delayed,2024-01-23
+B03,S04,Supplier E,Nuts,1416,9,On Time,2024-06-25
+B01,S01,Supplier B,Butter,1620,5,Delayed,2024-04-19
+B03,S03,Supplier D,Yeast,1714,10,Delayed,2024-04-15
+B02,S03,Supplier D,Chocolate,555,4,On Time,2024-01-12
+B02,S01,Supplier B,Chocolate,686,5,On Time,2024-01-25
+B04,S02,Supplier C,Eggs,1138,7,On Time,2024-03-27
+B03,S02,Supplier C,Butter,1722,8,On Time,2024-03-06
+B03,S09,Supplier J,Butter,1738,7,Delayed,2024-03-29
+B02,S06,Supplier G,Dry Fruits,946,5,On Time,2024-03-27
+B04,S01,Supplier B,Yeast,1214,5,On Time,2024-05-07
+B01,S09,Supplier J,Yeast,600,6,Delayed,2024-03-20
+B04,S05,Supplier F,Yeast,1689,4,On Time,2024-05-09
+B03,S08,Supplier I,Chocolate,1947,9,On Time,2024-06-04
+B04,S08,Supplier I,Flour,1108,4,On Time,2024-03-07
+B02,S08,Supplier I,Sugar,728,4,On Time,2024-02-11
+B03,S02,Supplier C,Eggs,1875,4,Delayed,2024-03-18
+B03,S08,Supplier I,Nuts,1335,4,On Time,2024-01-14
+B02,S01,Supplier B,Sugar,616,5,On Time,2024-05-20
+B02,S08,Supplier I,Butter,1453,6,On Time,2024-02-07
+B04,S05,Supplier F,Eggs,1160,5,On Time,2024-03-02
+B02,S07,Supplier H,Butter,1424,5,Delayed,2024-03-07
+B01,S01,Supplier B,Chocolate,773,5,Delayed,2024-03-03
+B02,S04,Supplier E,Nuts,600,8,Delayed,2024-02-17
+B03,S02,Supplier C,Dry Fruits,572,9,On Time,2024-03-29
+B04,S01,Supplier B,Eggs,656,10,Delayed,2024-03-10
+B01,S04,Supplier E,Butter,1861,6,Delayed,2024-05-02
+B03,S04,Supplier E,Flour,1899,10,Delayed,2024-02-06
+B03,S09,Supplier J,Flour,1728,10,On Time,2024-04-05
+B03,S05,Supplier F,Nuts,746,6,Delayed,2024-04-26
+B02,S04,Supplier E,Sugar,1037,4,Delayed,2024-04-07
+B03,S01,Supplier B,Baking Powder,837,8,Delayed,2024-03-23
+B04,S03,Supplier D,Baking Powder,949,4,Delayed,2024-06-11
+B04,S03,Supplier D,Raisins,772,7,Delayed,2024-03-20
+B03,S01,Supplier B,Dry Fruits,1087,4,On Time,2024-01-24
+B02,S08,Supplier I,Dry Fruits,1330,6,Delayed,2024-06-06
+B02,S01,Supplier B,Nuts,1066,5,Delayed,2024-06-24
+B04,S03,Supplier D,Raisins,1831,7,On Time,2024-03-17
+B04,S05,Supplier F,Flour,1569,9,Delayed,2024-04-30
+B01,S04,Supplier E,Chocolate,1411,8,Delayed,2024-06-27
+B04,S06,Supplier G,Nuts,1652,4,On Time,2024-05-05
+B02,S09,Supplier J,Sugar,1789,9,On Time,2024-01-04
+B04,S08,Supplier I,Sugar,1680,10,Delayed,2024-04-17
+B01,S06,Supplier G,Sugar,647,10,On Time,2024-06-07
+B01,S09,Supplier J,Chocolate,1857,6,Delayed,2024-03-17
+B03,S07,Supplier H,Raisins,1684,5,On Time,2024-06-18
+B02,S09,Supplier J,Yeast,800,7,On Time,2024-04-12
+B02,S03,Supplier D,Butter,1959,7,Delayed,2024-05-20
+B03,S02,Supplier C,Flour,897,7,On Time,2024-04-09
+B01,S01,Supplier B,Dry Fruits,1663,5,On Time,2024-05-24
+B02,S01,Supplier B,Raisins,1280,9,On Time,2024-06-02
+B03,S08,Supplier I,Flour,1393,5,Delayed,2024-02-18
+B02,S05,Supplier F,Nuts,1423,7,On Time,2024-05-02
+B04,S08,Supplier I,Flour,1245,4,Delayed,2024-05-25
+B02,S07,Supplier H,Raisins,1602,8,On Time,2024-06-08
+B04,S07,Supplier H,Nuts,1860,9,Delayed,2024-05-16
+B01,S02,Supplier C,Sugar,1095,7,Delayed,2024-04-25
+B01,S03,Supplier D,Nuts,1706,7,Delayed,2024-04-21
+B04,S08,Supplier I,Butter,1845,7,On Time,2024-06-24
+B04,S03,Supplier D,Sugar,1173,7,On Time,2024-05-22
+B02,S06,Supplier G,Baking Powder,1715,7,On Time,2024-02-25
+B03,S06,Supplier G,Yeast,1541,7,Delayed,2024-03-02
+B03,S04,Supplier E,Baking Powder,622,9,Delayed,2024-06-07
+B03,S05,Supplier F,Nuts,1574,10,On Time,2024-01-09
+B01,S03,Supplier D,Baking Powder,583,6,Delayed,2024-02-08
+B01,S05,Supplier F,Butter,1118,8,Delayed,2024-04-11
+B02,S07,Supplier H,Yeast,942,8,Delayed,2024-05-21
+B03,S03,Supplier D,Nuts,877,8,Delayed,2024-04-11
+B03,S07,Supplier H,Chocolate,1816,4,On Time,2024-05-09
+B01,S03,Supplier D,Chocolate,592,9,On Time,2024-01-06
+B02,S01,Supplier B,Eggs,1677,8,On Time,2024-04-03
+B01,S08,Supplier I,Chocolate,1672,4,Delayed,2024-06-11
+B02,S06,Supplier G,Baking Powder,971,8,Delayed,2024-02-10
+B02,S03,Supplier D,Flour,1130,9,On Time,2024-05-26
+B04,S07,Supplier H,Raisins,1537,5,On Time,2024-03-07
+B01,S06,Supplier G,Yeast,863,10,Delayed,2024-03-10
+B02,S02,Supplier C,Raisins,1692,5,On Time,2024-03-10
+B04,S01,Supplier B,Nuts,1462,9,On Time,2024-02-08
+B01,S03,Supplier D,Nuts,1279,10,On Time,2024-03-07
+B01,S04,Supplier E,Nuts,1437,8,On Time,2024-06-22
+B02,S02,Supplier C,Butter,605,8,On Time,2024-02-08
+B04,S06,Supplier G,Butter,1644,7,Delayed,2024-06-06
+B04,S02,Supplier C,Raisins,696,6,On Time,2024-03-12
+B04,S02,Supplier C,Chocolate,1535,4,On Time,2024-01-06
+B04,S02,Supplier C,Sugar,1273,8,Delayed,2024-05-06
+B04,S03,Supplier D,Flour,1790,10,Delayed,2024-04-22
+B03,S09,Supplier J,Flour,1394,7,Delayed,2024-06-21
+B04,S09,Supplier J,Eggs,1525,5,Delayed,2024-02-04
+B04,S05,Supplier F,Chocolate,1239,5,On Time,2024-04-25
+B02,S05,Supplier F,Dry Fruits,711,7,Delayed,2024-02-15
+B02,S06,Supplier G,Flour,1480,9,Delayed,2024-02-15
+B02,S05,Supplier F,Eggs,735,5,Delayed,2024-04-29
+B04,S07,Supplier H,Baking Powder,1543,10,Delayed,2024-02-03
+B04,S07,Supplier H,Baking Powder,1404,4,On Time,2024-03-04
+B01,S06,Supplier G,Nuts,1817,9,Delayed,2024-01-26
+B01,S06,Supplier G,Flour,1055,5,On Time,2024-03-03
+B02,S07,Supplier H,Raisins,1969,5,On Time,2024-05-09
+B03,S06,Supplier G,Flour,1574,5,Delayed,2024-04-07
+B03,S06,Supplier G,Yeast,1419,6,On Time,2024-02-04
+B01,S08,Supplier I,Flour,1211,8,Delayed,2024-01-07
+B02,S08,Supplier I,Flour,569,8,On Time,2024-03-24
+B02,S09,Supplier J,Flour,1905,10,Delayed,2024-06-20
+B04,S08,Supplier I,Baking Powder,1300,6,On Time,2024-05-29
+B01,S02,Supplier C,Yeast,1231,4,Delayed,2024-01-27
+B04,S04,Supplier E,Dry Fruits,851,7,Delayed,2024-01-05
+B02,S09,Supplier J,Eggs,1703,5,On Time,2024-03-07
+B02,S09,Supplier J,Dry Fruits,1342,10,On Time,2024-04-05
+B01,S02,Supplier C,Chocolate,556,7,Delayed,2024-02-10
+B04,S08,Supplier I,Butter,842,8,On Time,2024-05-22
+B02,S07,Supplier H,Nuts,1755,4,On Time,2024-06-22
+B03,S05,Supplier F,Dry Fruits,757,5,On Time,2024-02-17
+B04,S01,Supplier B,Flour,728,5,Delayed,2024-05-03
+B04,S04,Supplier E,Sugar,934,5,Delayed,2024-01-13
+B03,S06,Supplier G,Flour,901,9,On Time,2024-01-29
+B01,S08,Supplier I,Flour,1083,8,On Time,2024-06-25
+B01,S05,Supplier F,Raisins,1405,10,Delayed,2024-04-10
+B03,S04,Supplier E,Nuts,676,6,On Time,2024-05-25
+B01,S02,Supplier C,Eggs,1709,5,On Time,2024-05-10
+B04,S04,Supplier E,Sugar,1684,10,On Time,2024-02-01
+B02,S08,Supplier I,Nuts,1565,6,Delayed,2024-01-12
+B01,S02,Supplier C,Sugar,1240,9,Delayed,2024-03-25
+B04,S03,Supplier D,Chocolate,1453,10,On Time,2024-02-12
+B01,S06,Supplier G,Butter,1332,7,On Time,2024-05-09
+B03,S08,Supplier I,Dry Fruits,1045,8,Delayed,2024-05-31
+B01,S09,Supplier J,Yeast,556,8,Delayed,2024-06-23
+B02,S06,Supplier G,Yeast,1536,6,Delayed,2024-04-28
+B03,S03,Supplier D,Chocolate,589,6,On Time,2024-01-24
+B04,S02,Supplier C,Sugar,1470,7,On Time,2024-03-19
+B01,S02,Supplier C,Chocolate,1088,8,On Time,2024-06-17
+B04,S06,Supplier G,Baking Powder,1471,5,On Time,2024-03-05
+B01,S05,Supplier F,Butter,781,5,Delayed,2024-04-03
+B04,S08,Supplier I,Raisins,1727,10,On Time,2024-03-21
+B01,S08,Supplier I,Sugar,753,7,Delayed,2024-02-18
+B01,S09,Supplier J,Flour,1043,10,On Time,2024-04-16
+B04,S05,Supplier F,Baking Powder,1920,8,On Time,2024-05-08
+B02,S04,Supplier E,Eggs,1344,4,Delayed,2024-06-17
+B01,S05,Supplier F,Sugar,865,5,On Time,2024-04-16
+B01,S08,Supplier I,Flour,1138,10,On Time,2024-02-20
+B02,S08,Supplier I,Sugar,1423,6,Delayed,2024-02-18
+B04,S04,Supplier E,Eggs,1209,4,Delayed,2024-01-23
+B01,S04,Supplier E,Flour,510,7,On Time,2024-06-28
+B01,S05,Supplier F,Sugar,1744,8,On Time,2024-02-01
+B03,S01,Supplier B,Yeast,718,10,On Time,2024-06-24
+B03,S08,Supplier I,Nuts,960,10,Delayed,2024-05-17
+B04,S04,Supplier E,Eggs,1115,10,On Time,2024-01-28
+B01,S05,Supplier F,Yeast,1373,4,On Time,2024-05-25
+B02,S05,Supplier F,Raisins,755,4,Delayed,2024-01-05
+B02,S09,Supplier J,Butter,1023,8,On Time,2024-06-13
+B02,S06,Supplier G,Yeast,1255,9,On Time,2024-03-08
+B02,S08,Supplier I,Raisins,598,8,Delayed,2024-04-12
+B02,S02,Supplier C,Eggs,1377,5,Delayed,2024-04-15
+B02,S07,Supplier H,Raisins,1117,8,On Time,2024-02-17
+B03,S06,Supplier G,Yeast,1335,8,On Time,2024-05-06
+B01,S01,Supplier B,Dry Fruits,570,4,On Time,2024-06-02
+B01,S08,Supplier I,Dry Fruits,1624,6,On Time,2024-02-04
+B03,S09,Supplier J,Baking Powder,1154,9,On Time,2024-01-29
+B02,S05,Supplier F,Flour,720,6,On Time,2024-03-22
+B04,S06,Supplier G,Sugar,806,5,Delayed,2024-05-14
+B02,S06,Supplier G,Nuts,503,10,On Time,2024-01-11
+B01,S02,Supplier C,Eggs,1347,7,Delayed,2024-01-26
+B04,S09,Supplier J,Butter,714,7,On Time,2024-04-02
+B04,S02,Supplier C,Nuts,1943,8,Delayed,2024-06-17
+B03,S03,Supplier D,Nuts,1072,8,Delayed,2024-06-16
+B02,S02,Supplier C,Flour,1438,6,Delayed,2024-06-18
+B04,S09,Supplier J,Butter,725,4,On Time,2024-03-27
+B01,S04,Supplier E,Yeast,1948,10,Delayed,2024-06-04
+B01,S02,Supplier C,Butter,1730,7,On Time,2024-02-05
+B01,S04,Supplier E,Raisins,1592,5,Delayed,2024-06-22
+B04,S01,Supplier B,Baking Powder,1690,5,Delayed,2024-02-01
+B03,S01,Supplier B,Yeast,867,6,Delayed,2024-05-02
+B04,S08,Supplier I,Eggs,1693,9,Delayed,2024-05-27
+B03,S07,Supplier H,Baking Powder,1613,4,Delayed,2024-06-20
+B01,S06,Supplier G,Baking Powder,1418,9,Delayed,2024-02-23
+B01,S04,Supplier E,Butter,932,6,Delayed,2024-05-25
+B04,S09,Supplier J,Yeast,1335,10,Delayed,2024-06-11
+B02,S07,Supplier H,Sugar,1397,4,On Time,2024-03-11
+B04,S08,Supplier I,Chocolate,746,9,On Time,2024-06-02
+B03,S08,Supplier I,Flour,1059,6,On Time,2024-01-13
+B04,S02,Supplier C,Flour,1188,7,On Time,2024-05-17
+B03,S09,Supplier J,Dry Fruits,1890,8,On Time,2024-06-14
+B04,S04,Supplier E,Chocolate,1987,9,Delayed,2024-02-14
+B04,S04,Supplier E,Yeast,1206,9,On Time,2024-05-21
+B04,S01,Supplier B,Dry Fruits,1353,5,Delayed,2024-01-01
+B02,S09,Supplier J,Sugar,1253,10,Delayed,2024-02-08
+B04,S01,Supplier B,Baking Powder,1087,10,On Time,2024-04-26
+B02,S05,Supplier F,Butter,1207,10,On Time,2024-06-13
+B02,S07,Supplier H,Baking Powder,1769,8,Delayed,2024-03-27
+B02,S04,Supplier E,Flour,706,10,On Time,2024-01-20
+B04,S05,Supplier F,Dry Fruits,1416,10,On Time,2024-01-06
+B04,S01,Supplier B,Eggs,1509,8,On Time,2024-06-25
+B04,S03,Supplier D,Flour,913,8,Delayed,2024-06-12
+B02,S02,Supplier C,Flour,705,9,Delayed,2024-01-11
+B03,S04,Supplier E,Chocolate,1367,7,On Time,2024-03-11
+B04,S04,Supplier E,Dry Fruits,518,8,On Time,2024-06-17
+B01,S07,Supplier H,Yeast,927,8,On Time,2024-02-22
+B02,S04,Supplier E,Sugar,1045,5,On Time,2024-05-26
+B03,S05,Supplier F,Chocolate,554,5,On Time,2024-04-12
+B01,S09,Supplier J,Baking Powder,730,8,Delayed,2024-05-09
+B04,S06,Supplier G,Yeast,1967,6,On Time,2024-06-24
+B03,S05,Supplier F,Dry Fruits,891,4,Delayed,2024-01-25
+B01,S01,Supplier B,Dry Fruits,1601,8,On Time,2024-06-20
+B04,S05,Supplier F,Eggs,548,4,Delayed,2024-06-06
+B02,S01,Supplier B,Yeast,568,5,On Time,2024-02-24
+B04,S09,Supplier J,Flour,978,7,Delayed,2024-04-07
+B01,S08,Supplier I,Butter,1694,10,Delayed,2024-01-12
+B01,S03,Supplier D,Baking Powder,1829,4,Delayed,2024-02-11
+B01,S08,Supplier I,Sugar,1108,9,Delayed,2024-03-22
+B03,S01,Supplier B,Sugar,1901,7,Delayed,2024-01-28
+B01,S06,Supplier G,Flour,1396,10,Delayed,2024-04-24
+B02,S05,Supplier F,Flour,591,10,Delayed,2024-03-01
+B04,S08,Supplier I,Sugar,1761,10,On Time,2024-01-24
+B01,S04,Supplier E,Yeast,1415,9,Delayed,2024-05-08
+B03,S06,Supplier G,Raisins,524,7,Delayed,2024-05-22
+B02,S05,Supplier F,Dry Fruits,1131,8,Delayed,2024-05-11
+B01,S02,Supplier C,Flour,1580,8,On Time,2024-02-01
+B01,S03,Supplier D,Dry Fruits,1907,4,On Time,2024-01-13
+B02,S01,Supplier B,Baking Powder,736,6,Delayed,2024-02-02
+B04,S05,Supplier F,Eggs,1750,4,On Time,2024-05-19
+B03,S08,Supplier I,Chocolate,1846,4,Delayed,2024-06-15
+B01,S06,Supplier G,Nuts,554,7,On Time,2024-06-05
+B03,S04,Supplier E,Butter,1183,8,On Time,2024-01-21
+B01,S02,Supplier C,Dry Fruits,1707,10,On Time,2024-06-26
+B04,S07,Supplier H,Yeast,1721,6,Delayed,2024-04-07
+B01,S05,Supplier F,Raisins,1472,4,On Time,2024-05-11
+B04,S07,Supplier H,Raisins,700,4,Delayed,2024-01-24
+B01,S02,Supplier C,Baking Powder,774,6,Delayed,2024-06-15
+B04,S08,Supplier I,Nuts,1641,10,Delayed,2024-03-11
+B01,S04,Supplier E,Eggs,828,4,On Time,2024-03-27
+B01,S02,Supplier C,Chocolate,1074,9,On Time,2024-06-01
+B02,S04,Supplier E,Eggs,1542,4,Delayed,2024-06-07
+B03,S05,Supplier F,Eggs,922,5,Delayed,2024-03-16
+B01,S05,Supplier F,Baking Powder,1257,6,On Time,2024-06-21
+B04,S07,Supplier H,Nuts,1604,10,Delayed,2024-01-20
+B04,S04,Supplier E,Eggs,923,8,Delayed,2024-01-04
+B02,S04,Supplier E,Flour,703,7,On Time,2024-02-26
+B01,S08,Supplier I,Flour,784,4,Delayed,2024-05-24
+B01,S04,Supplier E,Butter,806,9,Delayed,2024-05-26
+B02,S05,Supplier F,Eggs,1669,5,On Time,2024-04-26
+B04,S09,Supplier J,Dry Fruits,1222,7,On Time,2024-04-01
+B02,S02,Supplier C,Sugar,1028,9,Delayed,2024-02-26
+B02,S08,Supplier I,Sugar,1802,4,Delayed,2024-03-19
+B02,S01,Supplier B,Sugar,1858,7,Delayed,2024-03-19
+B03,S09,Supplier J,Baking Powder,770,7,Delayed,2024-04-03
+B01,S08,Supplier I,Butter,918,9,On Time,2024-05-29
+B04,S03,Supplier D,Chocolate,1888,7,On Time,2024-06-18
+B01,S04,Supplier E,Yeast,1844,8,Delayed,2024-01-18
+B01,S01,Supplier B,Butter,608,4,On Time,2024-02-12
+B01,S07,Supplier H,Chocolate,1391,9,On Time,2024-04-02
+B02,S02,Supplier C,Flour,1550,7,On Time,2024-06-09
+B04,S02,Supplier C,Sugar,1178,4,Delayed,2024-04-08
+B01,S02,Supplier C,Sugar,927,9,Delayed,2024-01-03
+B01,S02,Supplier C,Eggs,1431,5,Delayed,2024-03-27
+B04,S06,Supplier G,Sugar,1010,4,Delayed,2024-04-29
+B02,S09,Supplier J,Nuts,993,10,On Time,2024-01-07
+B03,S03,Supplier D,Yeast,1046,5,Delayed,2024-02-13
+B03,S05,Supplier F,Dry Fruits,1921,7,Delayed,2024-05-02
+B02,S04,Supplier E,Baking Powder,666,7,Delayed,2024-02-01
+B03,S09,Supplier J,Eggs,1935,7,Delayed,2024-02-19
+B01,S02,Supplier C,Chocolate,734,9,Delayed,2024-04-21
+B04,S06,Supplier G,Dry Fruits,1682,10,On Time,2024-01-14
+B03,S04,Supplier E,Dry Fruits,1392,9,Delayed,2024-04-20
+B03,S07,Supplier H,Flour,567,10,Delayed,2024-04-29
+B03,S08,Supplier I,Eggs,716,4,Delayed,2024-01-11
+B02,S07,Supplier H,Raisins,1874,7,Delayed,2024-05-16
+B01,S05,Supplier F,Yeast,677,5,Delayed,2024-06-01
+B02,S06,Supplier G,Flour,879,7,Delayed,2024-05-09
+B04,S07,Supplier H,Baking Powder,1157,5,Delayed,2024-05-04
+B04,S01,Supplier B,Eggs,1719,10,On Time,2024-05-18
+B04,S09,Supplier J,Chocolate,1775,6,Delayed,2024-03-14
+B01,S07,Supplier H,Eggs,618,5,Delayed,2024-04-25
+B03,S06,Supplier G,Butter,544,5,Delayed,2024-01-05
+B01,S03,Supplier D,Chocolate,917,7,On Time,2024-06-04
+B04,S06,Supplier G,Eggs,1880,5,On Time,2024-04-26
+B02,S03,Supplier D,Yeast,1014,9,Delayed,2024-01-30
+B01,S06,Supplier G,Sugar,573,6,Delayed,2024-01-29
+B01,S03,Supplier D,Yeast,1008,7,Delayed,2024-04-21
+B04,S01,Supplier B,Yeast,1792,5,Delayed,2024-01-03
+B02,S04,Supplier E,Baking Powder,1661,10,Delayed,2024-06-05
+B02,S08,Supplier I,Dry Fruits,1575,9,Delayed,2024-03-31
+B01,S03,Supplier D,Nuts,824,5,On Time,2024-03-29
+B04,S09,Supplier J,Yeast,1216,6,On Time,2024-05-21
+B03,S05,Supplier F,Baking Powder,1035,9,Delayed,2024-05-21
+B01,S04,Supplier E,Yeast,651,6,On Time,2024-01-24
+B02,S03,Supplier D,Sugar,758,7,On Time,2024-04-23
+B04,S09,Supplier J,Yeast,1368,9,Delayed,2024-03-01
+B02,S03,Supplier D,Butter,1579,7,Delayed,2024-02-19
+B03,S09,Supplier J,Sugar,1819,8,Delayed,2024-03-16
+B04,S04,Supplier E,Nuts,1313,9,On Time,2024-05-23
+B02,S06,Supplier G,Flour,1943,4,On Time,2024-02-25
+B01,S03,Supplier D,Flour,1269,4,Delayed,2024-06-28
+B02,S04,Supplier E,Dry Fruits,565,7,Delayed,2024-06-16
+B04,S06,Supplier G,Eggs,1890,6,Delayed,2024-04-10
+B03,S07,Supplier H,Baking Powder,1334,6,On Time,2024-02-26
+B04,S08,Supplier I,Flour,583,10,On Time,2024-02-28
+B01,S07,Supplier H,Chocolate,1536,4,On Time,2024-06-09
+B01,S09,Supplier J,Nuts,1192,8,Delayed,2024-04-18
+B01,S08,Supplier I,Baking Powder,1469,4,On Time,2024-06-03
+B02,S09,Supplier J,Dry Fruits,539,9,Delayed,2024-01-23
+B04,S03,Supplier D,Baking Powder,758,8,Delayed,2024-01-12
+B02,S07,Supplier H,Chocolate,616,5,Delayed,2024-06-13
+B04,S04,Supplier E,Sugar,661,6,On Time,2024-02-21
+B04,S08,Supplier I,Dry Fruits,1042,6,On Time,2024-01-07
+B03,S07,Supplier H,Eggs,1589,9,Delayed,2024-04-16
+B04,S09,Supplier J,Flour,946,7,On Time,2024-04-01
+B01,S09,Supplier J,Raisins,1237,5,On Time,2024-06-18
+B02,S09,Supplier J,Eggs,895,10,On Time,2024-06-27
+B03,S07,Supplier H,Sugar,894,9,On Time,2024-03-18
+B03,S07,Supplier H,Dry Fruits,1614,9,On Time,2024-04-15
+B04,S06,Supplier G,Yeast,1689,5,Delayed,2024-05-03
+B04,S06,Supplier G,Raisins,1858,7,Delayed,2024-03-23
+B04,S01,Supplier B,Baking Powder,548,7,Delayed,2024-02-28
+B04,S01,Supplier B,Yeast,1762,8,Delayed,2024-01-12
+B02,S07,Supplier H,Eggs,1285,9,Delayed,2024-03-18
+B03,S06,Supplier G,Baking Powder,872,8,Delayed,2024-03-14
+B02,S03,Supplier D,Butter,978,5,Delayed,2024-01-11
+B02,S02,Supplier C,Yeast,586,4,On Time,2024-01-26
+B03,S06,Supplier G,Nuts,1881,6,On Time,2024-06-29
+B03,S02,Supplier C,Chocolate,1013,9,Delayed,2024-01-31
+B04,S09,Supplier J,Eggs,1987,6,On Time,2024-06-20
+B04,S05,Supplier F,Dry Fruits,1898,7,Delayed,2024-03-19
+B01,S05,Supplier F,Sugar,1242,8,Delayed,2024-06-18
+B04,S04,Supplier E,Eggs,1712,6,On Time,2024-01-05
+B01,S07,Supplier H,Raisins,1949,10,Delayed,2024-06-08
+B01,S05,Supplier F,Raisins,1710,9,On Time,2024-05-29
+B02,S05,Supplier F,Butter,970,7,Delayed,2024-06-20
+B01,S02,Supplier C,Nuts,723,5,Delayed,2024-04-23
+B01,S03,Supplier D,Dry Fruits,848,9,Delayed,2024-04-07
+B01,S03,Supplier D,Flour,1562,7,Delayed,2024-03-07
+B02,S03,Supplier D,Dry Fruits,1515,8,Delayed,2024-01-24
+B01,S04,Supplier E,Baking Powder,596,9,On Time,2024-04-16
+B03,S01,Supplier B,Eggs,520,10,On Time,2024-02-01
+B04,S06,Supplier G,Chocolate,1569,5,Delayed,2024-05-09
+B02,S04,Supplier E,Butter,1634,5,Delayed,2024-02-26
+B03,S01,Supplier B,Raisins,946,6,Delayed,2024-03-13
+B02,S03,Supplier D,Butter,1170,7,On Time,2024-06-20
+B03,S07,Supplier H,Raisins,1396,4,Delayed,2024-02-02
+B02,S06,Supplier G,Dry Fruits,1095,6,On Time,2024-03-13
+B01,S03,Supplier D,Dry Fruits,709,9,Delayed,2024-03-17
+B03,S05,Supplier F,Raisins,1276,5,On Time,2024-05-16
+B03,S02,Supplier C,Eggs,1711,9,On Time,2024-01-19
+B01,S02,Supplier C,Chocolate,1599,7,Delayed,2024-06-07
+B03,S06,Supplier G,Chocolate,584,4,Delayed,2024-01-11
+B01,S06,Supplier G,Dry Fruits,1507,4,Delayed,2024-06-15
+B04,S03,Supplier D,Sugar,1469,8,Delayed,2024-02-19
+B01,S05,Supplier F,Baking Powder,1504,5,Delayed,2024-02-06
+B01,S06,Supplier G,Raisins,754,7,On Time,2024-04-29
+B04,S08,Supplier I,Nuts,1784,9,Delayed,2024-01-13
+B04,S01,Supplier B,Baking Powder,1944,6,On Time,2024-05-24
+B01,S04,Supplier E,Eggs,546,10,Delayed,2024-02-02
+B03,S08,Supplier I,Butter,707,10,On Time,2024-06-01
+B01,S05,Supplier F,Yeast,937,6,Delayed,2024-03-06
+B02,S06,Supplier G,Nuts,1613,5,Delayed,2024-02-17
+B02,S06,Supplier G,Raisins,1697,4,On Time,2024-02-19
+B01,S08,Supplier I,Butter,1275,4,Delayed,2024-06-24
+B03,S05,Supplier F,Dry Fruits,1722,9,Delayed,2024-02-08
+B03,S05,Supplier F,Flour,699,6,On Time,2024-01-24
+B02,S06,Supplier G,Yeast,1352,7,Delayed,2024-04-02
+B04,S08,Supplier I,Nuts,1581,9,On Time,2024-01-14
+B04,S02,Supplier C,Sugar,1772,8,Delayed,2024-05-09
+B01,S09,Supplier J,Flour,1794,9,On Time,2024-02-26
+B02,S06,Supplier G,Flour,1607,8,On Time,2024-06-18
+B04,S06,Supplier G,Baking Powder,1048,9,Delayed,2024-01-06
+B03,S07,Supplier H,Yeast,1930,4,On Time,2024-03-12
+B02,S08,Supplier I,Baking Powder,1616,9,Delayed,2024-02-29
+B03,S06,Supplier G,Chocolate,658,9,On Time,2024-05-19
+B03,S05,Supplier F,Raisins,724,4,Delayed,2024-03-25
+B02,S09,Supplier J,Butter,1772,10,On Time,2024-06-01
+B02,S08,Supplier I,Flour,1487,7,On Time,2024-01-04
+B01,S08,Supplier I,Yeast,1226,8,On Time,2024-06-21
+B04,S05,Supplier F,Sugar,1053,10,On Time,2024-04-18
+B01,S04,Supplier E,Eggs,1372,6,On Time,2024-06-03
+B04,S02,Supplier C,Butter,1036,4,On Time,2024-03-31
+B04,S05,Supplier F,Nuts,1422,4,Delayed,2024-01-18
+B02,S07,Supplier H,Chocolate,1341,5,Delayed,2024-01-09
+B02,S04,Supplier E,Baking Powder,1164,9,Delayed,2024-03-18
+B04,S03,Supplier D,Sugar,505,8,On Time,2024-02-13
+B01,S06,Supplier G,Dry Fruits,1064,5,On Time,2024-04-09
+B01,S02,Supplier C,Raisins,1525,7,Delayed,2024-05-07
+B03,S06,Supplier G,Raisins,1304,7,On Time,2024-03-29
+B03,S07,Supplier H,Flour,1035,7,On Time,2024-01-04
+B03,S01,Supplier B,Flour,1732,6,Delayed,2024-03-14
+B02,S01,Supplier B,Sugar,616,7,On Time,2024-01-11
+B02,S09,Supplier J,Eggs,994,6,Delayed,2024-02-25
+B02,S07,Supplier H,Eggs,1854,9,On Time,2024-04-06
+B02,S01,Supplier B,Raisins,1035,10,On Time,2024-01-02
+B04,S03,Supplier D,Butter,1039,7,On Time,2024-02-28
+B01,S08,Supplier I,Nuts,515,6,Delayed,2024-01-23
+B01,S01,Supplier B,Flour,742,9,Delayed,2024-04-04
+B03,S09,Supplier J,Chocolate,1204,10,Delayed,2024-04-03
+B01,S03,Supplier D,Sugar,1822,8,On Time,2024-01-17
+B02,S03,Supplier D,Baking Powder,896,5,Delayed,2024-06-23
+B04,S02,Supplier C,Flour,1626,4,Delayed,2024-06-30
+B03,S02,Supplier C,Yeast,1738,10,On Time,2024-02-02
+B04,S07,Supplier H,Eggs,758,7,On Time,2024-01-11
+B04,S07,Supplier H,Sugar,548,5,On Time,2024-03-02
+B01,S01,Supplier B,Eggs,675,10,Delayed,2024-05-19
+B04,S02,Supplier C,Raisins,1500,10,Delayed,2024-06-02
+B01,S07,Supplier H,Butter,775,5,Delayed,2024-02-16
+B01,S05,Supplier F,Chocolate,1175,7,Delayed,2024-04-12
+B03,S01,Supplier B,Raisins,1711,6,On Time,2024-06-27
+B02,S06,Supplier G,Dry Fruits,535,4,On Time,2024-05-02
+B02,S07,Supplier H,Baking Powder,1094,4,On Time,2024-04-11
+B04,S05,Supplier F,Baking Powder,806,9,On Time,2024-03-05
+B04,S08,Supplier I,Chocolate,1118,8,Delayed,2024-05-04
+B04,S04,Supplier E,Chocolate,856,8,Delayed,2024-06-18
+B04,S04,Supplier E,Raisins,567,7,Delayed,2024-06-16
+B02,S04,Supplier E,Sugar,680,5,On Time,2024-05-15
+B01,S02,Supplier C,Nuts,1987,4,Delayed,2024-05-03
+B02,S02,Supplier C,Flour,565,8,On Time,2024-04-13
+B04,S04,Supplier E,Nuts,883,7,On Time,2024-01-11
+B01,S07,Supplier H,Chocolate,538,8,On Time,2024-04-07
+B04,S06,Supplier G,Sugar,1101,8,Delayed,2024-04-13
+B01,S01,Supplier B,Raisins,1859,7,On Time,2024-03-19
+B03,S03,Supplier D,Eggs,1596,10,On Time,2024-06-19
+B02,S01,Supplier B,Eggs,600,5,On Time,2024-05-06
+B01,S04,Supplier E,Flour,675,9,On Time,2024-03-06
+B03,S01,Supplier B,Raisins,1622,5,On Time,2024-01-24
+B04,S07,Supplier H,Yeast,994,6,Delayed,2024-05-14
+B03,S04,Supplier E,Yeast,1254,4,Delayed,2024-02-20
+B03,S03,Supplier D,Flour,1646,8,Delayed,2024-03-15
+B03,S02,Supplier C,Chocolate,1911,7,Delayed,2024-04-25
+B04,S07,Supplier H,Chocolate,769,10,Delayed,2024-04-07
+B02,S03,Supplier D,Eggs,1912,4,Delayed,2024-06-02
+B04,S01,Supplier B,Nuts,1592,8,On Time,2024-05-31
+B03,S09,Supplier J,Flour,1956,4,On Time,2024-03-14
+B02,S04,Supplier E,Nuts,599,5,Delayed,2024-02-04
+B02,S09,Supplier J,Yeast,1196,8,Delayed,2024-01-06
+B03,S02,Supplier C,Eggs,961,4,Delayed,2024-01-29
+B02,S06,Supplier G,Nuts,1131,5,Delayed,2024-04-25
+B01,S04,Supplier E,Eggs,581,5,On Time,2024-01-30
+B03,S09,Supplier J,Nuts,1695,10,On Time,2024-04-27
+B04,S03,Supplier D,Dry Fruits,1125,9,Delayed,2024-03-09
+B01,S06,Supplier G,Flour,1952,5,Delayed,2024-06-17
+B02,S02,Supplier C,Yeast,1453,10,On Time,2024-04-11
+B04,S04,Supplier E,Eggs,1069,4,Delayed,2024-05-24
+B02,S09,Supplier J,Baking Powder,1497,8,On Time,2024-01-27
+B02,S04,Supplier E,Chocolate,1386,9,On Time,2024-05-18
