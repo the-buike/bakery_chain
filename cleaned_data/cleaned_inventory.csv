@@ -1,0 +1,60 @@
+branch_id,product_id,product_name,current_stock,reorder_point,supplier_lead_time_days,cost_per_unit
+B01,101,Fruit Biscuits,500,200.0,7,2.5
+B02,101,Fruit Biscuits,500,200.0,7,2.5
+B03,101,Fruit Biscuits,500,200.0,7,2.5
+B04,101,Fruit Biscuits,500,200.0,7,2.5
+B01,102,Plum Cake,300,100.0,5,5.0
+B02,102,fruit biscuits,300,100.0,5,5.0
+B03,102,Plum Cake,300,100.0,5,5.0
+B04,102,Plum Cake,300,100.0,5,5.0
+B01,103,Almond Cookies,200,150.0,10,3.0
+B02,103,Almond Cookies,200,150.0,10,3.0
+B03,103,Almond Cookies,200,150.0,10,3.0
+B04,103,Almond Cookies,200,150.0,10,3.0
+B01,104,Chocolate Cake,400,250.0,7,6.0
+B02,104,Chocolate Cake,400,250.0,7,6.0
+B03,104,Chocolate Cake,400,250.0,7,6.0
+B04,104,Chocolate Cake,400,170.0,7,6.0
+B01,105,Butter Cookies,600,300.0,5,2.0
+B02,105,Butter Cookies,600,300.0,5,2.0
+B03,105,Butter Cookies,600,300.0,5,2.0
+B04,105,Butter Cookies,600,300.0,5,2.0
+B02,106,White Bread,800,300.0,5,1.5
+B03,106,White Bread,800,300.0,5,1.5
+B04,106,White Bread,800,300.0,5,1.5
+B01,107,Whole Wheat Bread,700,250.0,6,1.8
+B02,107,Whole Wheat Bread,700,250.0,6,1.8
+B03,107,Whole Wheat Bread,700,250.0,6,1.8
+B04,107,Whole Wheat Bread,700,250.0,6,1.8
+B01,108,Sourdough Loaf,400,150.0,7,2.2
+B02,108,Sourdough Loaf,400,150.0,7,2.2
+B03,108,Sourdough Loaf,400,150.0,7,2.2
+B04,108,Sourdough Loaf,400,150.0,7,2.2
+B01,109,Bagels,600,200.0,4,1.2
+B02,109,Bagels,600,200.0,4,1.2
+B03,109,Bagels,600,200.0,4,1.2
+B04,109,Bagels,600,200.0,4,1.2
+B01,110,Croissants,500,180.0,5,2.5
+B02,110,Croissants,500,180.0,5,2.5
+B03,110,Croissants,500,180.0,5,2.5
+B04,110,Croissants,500,180.0,5,2.5
+B01,111,Banana Bread,350,120.0,6,2.8
+B02,111,Banana Bread,350,120.0,6,2.8
+B03,111,Banana Bread,350,120.0,6,2.8
+B04,111,Banana Bread,350,120.0,6,2.8
+B01,112,Multigrain Bread,450,170.0,6,2.0
+B02,112,Multigrain Bread,450,170.0,6,2.0
+B03,112,Multigrain Bread,450,170.0,6,2.0
+B04,112,Multigrain Bread,450,170.0,6,2.0
+B01,113,Garlic Bread,300,100.0,4,2.3
+B02,113,Garlic Bread,300,100.0,4,2.3
+B03,113,Garlic Bread,300,100.0,4,2.3
+B04,113,Garlic Bread,300,100.0,4,2.3
+B01,114,Rye Bread,280,90.0,5,2.1
+B02,114,Rye Bread,280,90.0,5,2.1
+B03,114,Rye Bread,280,90.0,5,2.1
+B04,114,Rye Bread,280,90.0,5,2.1
+B01,115,Ciabatta,370,110.0,5,2.6
+B02,115,Ciabatta,370,110.0,5,2.6
+B03,115,Ciabatta,370,110.0,5,2.6
+B04,115,Ciabatta,370,110.0,5,2.6
